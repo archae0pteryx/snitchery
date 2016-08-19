@@ -1,7 +1,12 @@
-## Snitchery: Backup of my Littlesnitch(tm) ruleset
-### Little Snitch v3.6.3 Ruleset
-
-Open Littlesnitch config and import rules.
-This is still in the "experimental testing / shade grown, yet, not bird friendly" phase such that, the most optimal phase would (obviously) be both shade grown AND bird friendly. Vis a vis, the current ruleset is not for "Production" environments. 
+## Snitchery
+### lil snitch rules.
+#### hard won.
+---
+### Installation:
+1. Open Littlesnitch config 
+2. Place hot_pocket in wave: do
+3. cook on high for 2.5 min
+4. click import rules (where applicable i.e. "all over")
+ 
 
 
