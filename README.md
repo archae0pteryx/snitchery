@@ -17,7 +17,7 @@ When you import these rules you'll most certainly have applications that I don't
 
 This set is nowhere near finished but it's a great starting point for someone to "train" their own firewall. My general "rule of thumb" (sorry ladies) has been to adhere to the rule of least permissions. This is great in theory but unfortunately in the real world it becomes extrememly annoying to approve rules on a domain by domain basis. So, I have been training the snitch via Port and Protocol and not the full-on, super annoying, domain based rules.
 
-### The Rules and Profiles
+### Rules and Profiles
 
 #### Profiles:
 - Home
@@ -40,4 +40,12 @@ This set is nowhere near finished but it's a great starting point for someone to
  - Only the default system bits and VPN connectivity.
 
 - Home
- -
+ - accountsd (443)
+ - Addressbook (443)
+ - Adobe desktop service (DENY) (I HATE THE AMOUNT OF ADOBE BS.)
+ - AGS (see above)
+ - Airplay (7000)
+ - AKD (443)
+ - Alfred (443)
+ - Atom (443)
+ - Calender Agent (443)
